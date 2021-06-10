@@ -6,4 +6,5 @@
 # How to create TFRecords. create_tfrecords.py
 # How to set accuracy threshould by callbacks. accuracy_threshould.py
 # How to set learning rate by callbackas. learning_rate.py
+# Custom CNN and AUG
 
