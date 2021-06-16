@@ -7,4 +7,8 @@
 # How to set accuracy threshould by callbacks. accuracy_threshould.py
 # How to set learning rate by callbackas. learning_rate.py
 # Custom CNN and AUG
+# How to use TensorBoard
+# How to use CheckPoint in TensorFlow
+# How to use GoogleNet in Tensorflow
+# How to use Torch Tensor to Numpy Array
 
